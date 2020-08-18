@@ -1,4 +1,4 @@
-#Demo
+# Demo
 
 
 This repo contains practice code of basic html,css and some amount of JS to manage html elements.
